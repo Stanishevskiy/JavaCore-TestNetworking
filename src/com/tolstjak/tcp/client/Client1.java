@@ -1,4 +1,4 @@
-package learning.area.client;
+package com.tolstjak.tcp.client;
 
 import java.io.BufferedReader;
 import java.io.IOException;

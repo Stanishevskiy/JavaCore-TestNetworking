@@ -1,4 +1,4 @@
-package learning.area.server;
+package com.tolstjak.tcp.server;
 
 import java.io.IOException;
 import java.net.ServerSocket;
