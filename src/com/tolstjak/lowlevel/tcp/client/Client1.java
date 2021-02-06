@@ -1,4 +1,4 @@
-package com.tolstjak.tcp.client;
+package com.tolstjak.lowlevel.tcp.client;
 
 import java.io.BufferedReader;
 import java.io.IOException;

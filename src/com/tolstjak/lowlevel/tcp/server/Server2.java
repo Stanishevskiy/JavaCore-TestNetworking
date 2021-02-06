@@ -1,4 +1,4 @@
-package com.tolstjak.tcp.server;
+package com.tolstjak.lowlevel.tcp.server;
 
 import java.io.IOException;
 import java.net.ServerSocket;

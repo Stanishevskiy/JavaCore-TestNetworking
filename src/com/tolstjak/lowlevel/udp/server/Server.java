@@ -1,4 +1,4 @@
-package com.tolstjak.udp.server;
+package com.tolstjak.lowlevel.udp.server;
 
 import java.io.IOException;
 import java.net.DatagramPacket;
