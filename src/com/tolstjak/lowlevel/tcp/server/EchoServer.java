@@ -1,4 +1,4 @@
-package learning.area.server;
+package com.tolstjak.lowlevel.tcp.server;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -26,6 +26,7 @@ public class EchoServer extends Thread {
                 if (echoString.equals("exit")) {
                     break;
                 }
+                System.out.println(Thread.currentThread().getName() + " Client said: " + echoString);
                 output.println("Echo from server: " + echoString);
             }
 
